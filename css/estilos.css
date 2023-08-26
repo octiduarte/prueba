@@ -83,3 +83,32 @@ header a {
     justify-content: space-evenly;
     padding: 28px;
 }
+
+.organizacion_aside{
+    display: flex;
+}
+
+.margenes_aside{
+    margin: 0;
+}
+.color_aside_titulo{
+    background: linear-gradient(359deg, #0e0e0e, #686262);
+    padding: 15px;
+    color: white;
+    font-weight: normal;
+    font-size: 15px;
+    margin: 0px;
+}
+.color_aside_primerayultima{
+    background-color: #f3efef;
+    padding: 20px;
+}
+.color_aside_segunda{
+    padding: 20px;
+    background-color: #e7e4e4;
+}
+.color_date{
+    color: #a19d9d;
+
+    font-weight: normal;
+}
